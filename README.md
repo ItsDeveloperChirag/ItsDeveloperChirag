@@ -37,7 +37,6 @@ descriptions, and repository URLs. No unverified metrics are included.
 
 ## 🚀 Featured Projects
 
-> Replace these placeholders with real project details and links before publishing. Project URLs and metrics have intentionally not been invented.
 
 | Project | Description | Repository |
 |---|---|---|
