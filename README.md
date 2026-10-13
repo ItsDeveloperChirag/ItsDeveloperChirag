@@ -15,19 +15,6 @@ descriptions, and repository URLs. No unverified metrics are included.
 
 </div>
 
-## 👨‍💻 About Me
-
-- 🎓 AIML Student
-- 🤖 Interested in AI/ML, intelligent systems, and workflow automation
-- 🛠️ Building practical solutions with Python, SQL, and n8n
-- 📍 Delhi, India
-- 🌱 Continuously learning and developing useful projects
-
-## 🧰 Tech Stack
-
-**Languages & Data:** Python, SQL  
-**AI/ML:** Scikit-Learn, TensorFlow, Keras  
-**Automation:** n8n
 
 <div align="center">
 
